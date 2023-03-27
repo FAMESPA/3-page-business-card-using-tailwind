@@ -1,0 +1,516 @@
+a {text-decoration: none; color: black;} a:hover {text-decoration: underline; color:#00A8CC;} 
+button {text-decoration: none; border: none;} button:hover {color:#0058cc;} 
+.navbar_works {
+    width: 57px;
+    height: 43px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 850px;
+}
+
+.navbar_blog {
+    width: 57px;
+    height: 43px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 40px;
+}
+.navbar_Contact {
+    width: 57px;
+    height: 43px;
+    font-family: 'Heebo';
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 40px;
+}
+.main_jon {
+    position: absolute;
+width: 506px;
+height: 105px;
+left: 148px;
+top: 228px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
+color: #21243D;
+}
+.jon_picture:hover img {         
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);  
+    transform: scale(1.1);
+} 
+.jon_picture {
+    position: absolute;
+width: 243px;
+height: 243px;
+left: 610px;
+top: -25px;
+-webkit-transition: -webkit-transform 0.5s;
+transition:-webkit-transform 0.5s;
+-o-transition: transform 0.5s; 
+transition: transform 0.5s;
+transition: transform 0.5s; 
+}
+.jon_description {
+    position: absolute;
+width: 497px;
+height: 66px;
+left: -610px;
+top: 150px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+
+.red_download_button {
+    position: absolute;
+width: 167px;
+height: 21px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+position: absolute;
+width: 208px;
+height: 47px;
+color: white;
+background: #FF6464;
+border-radius: 2px;
+margin-top: 38px;
+cursor: pointer;
+right: 290px;
+bottom: -80px;
+}
+.main_recent_posts {
+    position: absolute;
+width: 129px;
+height: 60px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+display: flex;
+align-items: flex-end;
+color: #21243D;
+left: 1px;
+top: 222px;
+}
+.view_all {
+    position: absolute;
+width: 208px;
+height: 20px;
+left: 796px;
+top: 222px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: right;
+}
+.main_tittle1 {
+position: absolute;
+width: 374px;
+height: 85px;
+left: 20px;
+top: 330px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 38px;
+color: #21243D;
+}
+.main_tittle2 {
+position: absolute;
+width: 374px;
+height: 85px;
+left: 609px;
+top: 330px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 38px;
+color: #21243D;
+}
+.date_12feb1 {
+position: absolute;
+width: 374px;
+height: 34px;
+left: 20px;
+top: 445px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #21243D;
+}
+.poloska {
+    position: absolute;
+    width: 0px;
+    height: 21px;
+    left: 150px;
+    top: 445px;
+    border: 1px solid #21243D;
+}
+.tittle_design_pattern {
+    position: absolute;
+width: 239px;
+height: 34px;
+left: 180px;
+top: 445px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #21243D;
+}
+.date_12feb2 {
+    position: absolute;
+width: 374px;
+height: 34px;
+left: 609px;
+top: 445px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #21243D;
+}
+.poloska2 {
+    position: absolute;
+width: 0px;
+height: 21px;
+left: 740px;
+top: 445px;
+border: 1px solid #21243D;
+}
+.tittle_Figma_Icon_Design {
+    
+position: absolute;
+width: 239px;
+height: 34px;
+left: 770px;
+top: 445px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #21243D;
+}
+.main_tittle_text {
+    position: absolute;
+width: 368px;
+height: 117px;
+left: 20px;
+top: 500px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+.main_tittle_text2 {
+    position: absolute;
+width: 368px;
+height: 117px;
+left: 609px;
+top: 500px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+
+.main_feutured_works {
+
+position: absolute;
+width: 152px;
+height: 60px;
+left: 1px;
+top: 650px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+color: #21243D;
+}
+
+.main_picture_skrin {
+    position: absolute;
+    left: -3px;
+    top: 750px;
+}
+.main_designing_dashbords {
+    position: absolute;
+width: 305px;
+height: 44px;
+left: 265px;
+top: 730px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+color: #21243D;
+}
+.main_2020 {
+position: absolute;
+width: 62px;
+height: 25px;
+left: 265px;
+top: 810px;
+background: #142850;
+border-radius: 16px;
+}
+.main_2020_2 {
+position: absolute;
+width: 42px;
+height: 60px;
+left: 275px;
+top: 793px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+color: white;
+}
+.main_dashbord {
+    position: absolute;
+width: 374px;
+height: 34px;
+left: 380px;
+top: 808px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+color: #8695A4;
+}
+.main_dashbord_text {
+    position: absolute;
+width: 594px;
+height: 93px;
+left: 267px;
+top: 850px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+
+.picture_girl {
+    position: absolute;
+    left: -3px;
+    top: 980px;
+}
+
+.picture_girl_vibrant {
+    position: absolute;
+width: 337px;
+height: 44px;
+left: 265px;
+top: 985px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+color: #21243D;
+}
+
+.main_picture_girl_2018 {
+    position: absolute;
+width: 62px;
+height: 25px;
+left: 267px;
+top: 1040px;
+background: #142850;
+border-radius: 16px;
+}  
+
+.main_2018_2 {
+    position: absolute;
+width: 42px;
+height: 60px;
+left: -334px;
+top: 1174px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+color: white;
+}
+
+.main_Illustration {
+    position: absolute;
+width: 374px;
+height: 34px;
+left: -230px;
+top: 1190px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+color: #8695A4;
+}
+
+.main_Illustration_text {
+    position: absolute;
+width: 594px;
+height: 93px;
+left: -340px;
+top: 1233px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+
+.picture_a {
+    position: absolute;
+width: 246px;
+height: 184px;
+left: -613px;
+top: 1385px;
+border-radius: 6px;
+}
+.picture_a_tittle {
+    position: absolute;
+width: 365px;
+height: 44px;
+left: -340px;
+top: 1385px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+color: #21243D;
+}
+
+.main_picture_a_2018 {
+    position: absolute;
+width: 62px;
+height: 25px;
+left: -340px;
+top: 1455px;
+background: #142850;
+border-radius: 16px;
+}
+
+.main_a_2018_2 {
+    position: absolute;
+width: 42px;
+height: 60px;
+left: 280px;
+top: 1414px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+color:white;
+}
+
+.main_Typography {
+    position: absolute;
+width: 374px;
+height: 34px;
+left: 379px;
+top: 1428px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+color: #8695A4;
+}
+
+.main_Typography_text {
+    position: absolute;
+width: 507px;
+height: 93px;
+left: 273px;
+top: 1475px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #21243D;
+}
+
+.footer_fb {
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 315px;
+top: 1750px;
+}
+
+.footer_insta {
+    position: absolute;
+width: 15.46px;
+height: 15.46px;
+left: 378px;
+top: 1755px;
+}
+
+.footer_twiwwer {
+    position: absolute;
+width: 36.92px;
+height: 30px;
+left: 420px;
+top: 1753px;;
+}
+
+.footer_linkin {
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 490px;
+top: 1753px;;
+}
+
+.footer_rools {
+position: absolute;
+height: 21px;
+width: 300px;
+left: 265px;
+top: 1818px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+color: #21243D;
+}

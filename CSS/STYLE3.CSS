@@ -1,0 +1,224 @@
+.navbar_works {
+    position: absolute;
+    width: 106px;
+    height: 43px;
+    left: 893px;
+    top: 27px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #FF6464;
+}
+
+.navbar_blog {
+    position: absolute;
+width: 106px;
+height: 43px;
+left: 800px;
+top: 27px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+color: #21243D;
+}
+.navbar_Contact {
+    position: absolute;
+width: 106px;
+height: 43px;
+left: 986px;
+top: 27px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+color: #21243D;
+}
+
+.Blog_tittle {
+    position: absolute;
+width: 506px;
+height: 100px;
+left: 235px;
+top: 148px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 50px;
+color: #21243D;
+}
+
+.main_2020 {
+    position: absolute;
+    width: 62px;
+    height: 25px;
+    left: 239px;
+    top: 280px;
+    background: #FF7C7C;
+    border-radius: 16px;
+}
+
+.main_2020_2 {
+    position: absolute;
+width: 42px;
+height: 60px;
+left: 249px;
+top: 262px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 60px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+
+.main_dashboard {
+    position: absolute;
+width: 374px;
+height: 34px;
+left: 318px;
+top: 278px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+color: #21243D;
+}
+
+.main_dashbord_text {
+    position: absolute;
+width: 681px;
+height: 44px;
+left: 235px;
+top: 335px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+
+.main_picture_window {
+    position: absolute;
+width: 681px;
+height: 460px;
+left: 235px;
+top: 425px;
+}
+
+.main_heading1 {
+    position: absolute;
+width: 506px;
+height: 45px;
+left: 239px;
+top: 939px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 60px;
+color: #21243D;
+}
+
+.main_heading2 {
+    position: absolute;
+width: 506px;
+height: 82px;
+left: 239px;
+top: 984px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 60px;
+color: #21243D;
+}
+
+.main_text2 {
+    position: absolute;
+width: 677px;
+height: 48px;
+left: 239px;
+top: 1049px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+
+.main_picture_cars {
+    position: absolute;
+width: 681px;
+height: 460px;
+left: 235px;
+top: 1127px;
+}
+
+.main_picture_menu {
+    position: absolute;
+width: 681px;
+height: 460px;
+left: 235px;
+top: 1614px;
+}
+
+.footer_fb {
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 460px;
+top: 2200px;
+}
+
+.footer_insta {
+    position: absolute;
+width: 15.46px;
+height: 15.46px;
+left: 530px;
+top: 2205px;
+}
+
+.footer_twiwwer {
+    position: absolute;
+width: 36.92px;
+height: 30px;
+left: 585px;
+top: 2200px;;
+}
+
+.footer_linkin {
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 665px;
+top: 2200px;;
+}
+
+.footer_rools {
+position: absolute;
+height: 21px;
+width: 300px;
+left: 435px;
+top: 2260px;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+color: #21243D;
+}
